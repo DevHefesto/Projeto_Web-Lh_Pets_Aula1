@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "ajfYpos3iCblDCzwo/Qi9bGHuSLajNbaEZRdLdObKwY=",
+  "Source": "Projeto_Web-Lh_Pets_Alunos",
+  "BasePath": "_content/Projeto_Web-Lh_Pets_Alunos",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto_Web-Lh_Pets_Alunos\\wwwroot",
+      "Source": "Projeto_Web-Lh_Pets_Alunos",
+      "ContentRoot": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\Projetos\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web-Lh_Pets_Alunos",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\pedro\\.nuget\\packages\\microsoft.aspnetcore.components.web.extensions\\5.0.0-preview9.20513.1\\staticwebassets\\headManager.js",
+      "SourceId": "Microsoft.AspNetCore.Components.Web.Extensions",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\pedro\\.nuget\\packages\\microsoft.aspnetcore.components.web.extensions\\5.0.0-preview9.20513.1\\staticwebassets\\",
+      "BasePath": "_content/Microsoft.AspNetCore.Components.Web.Extensions",
+      "RelativePath": "headManager.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\pedro\\.nuget\\packages\\microsoft.aspnetcore.components.web.extensions\\5.0.0-preview9.20513.1\\staticwebassets\\headManager.js"
+    },
+    {
+      "Identity": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\Projetos\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\index.html",
+      "SourceId": "Projeto_Web-Lh_Pets_Alunos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\Projetos\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web-Lh_Pets_Alunos",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
